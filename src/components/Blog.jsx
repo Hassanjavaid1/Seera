@@ -11,7 +11,7 @@ function Blog() {
             <img
               src={"/Seera/blog1.avif"}
               alt={"project"}
-              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px]"
+              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px] xl:w-full"
             />
           </div>
           <div className="bg-[#323335] p-4">
@@ -26,7 +26,7 @@ function Blog() {
             <img
               src={"/Seera/blog2.avif"}
               alt={"project"}
-              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px]"
+              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px] xl:w-full"
             />
           </div>
           <div className="bg-[#323335] p-4">
@@ -41,7 +41,7 @@ function Blog() {
             <img
               src={"/Seera/blog3.avif"}
               alt={"project"}
-              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px]"
+              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px] xl:w-full"
             />
           </div>
           <div className="bg-[#323335] p-4">
@@ -56,7 +56,7 @@ function Blog() {
             <img
               src={"/Seera/blog4.avif"}
               alt={"project"}
-              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px]"
+              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px] xl:w-full"
             />
           </div>
           <div className="bg-[#323335] p-4">
@@ -71,7 +71,7 @@ function Blog() {
             <img
               src={"/Seera/blog5.avif"}
               alt={"project"}
-              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px]"
+              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px] xl:w-full"
             />
           </div>
           <div className="bg-[#323335] p-4">
@@ -86,7 +86,7 @@ function Blog() {
             <img
               src={"/Seera/blog6.avif"}
               alt={"project"}
-              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px]"
+              className=" min-h-[300px] object-cover duration-500 group-hover:scale-110 xl:min-h-[200px] overflow-hidden xl:h-[300px] xl:w-full"
             />
           </div>
           <div className="bg-[#323335] p-4">
