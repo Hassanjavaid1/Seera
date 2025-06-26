@@ -17,7 +17,7 @@ function Profile() {
             <a href="/Seera" target="_blank" rel="noopener noreferrer" className="w-[30px] h-[30px] flex items-center justify-center rounded-lg duration-300 hover:bg-[#8C49E9]"><FaInstagram   /></a>
             <a href="/Seera" target="_blank" rel="noopener noreferrer" className="w-[30px] h-[30px] flex items-center justify-center rounded-lg duration-300 hover:bg-[#8C49E9]"><CiMail    /></a>
           </div>
-          <button className="bg-[#8C49E9] p-3 px-12 rounded-lg mt-4 cursor-pointer sm:px-20">Let's Talk</button>
+          <button className="bg-[#8C49E9] p-3 px-12 rounded-lg mt-4 cursor-pointer duration-300 sm:px-20 hover:scale-105">Let's Talk</button>
         </div>
       </div>
     </section>

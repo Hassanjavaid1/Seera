@@ -9,7 +9,7 @@ function Contact() {
           Collaborate
         </span>
       </h1>
-      <div className="absolute top-[19px] right-[12px] flex items-center justify-center bg-white text-[#8C49E9] w-[49px] h-[49px] rounded-full xl:right-[20px]">
+      <div className="absolute top-[19px] right-[12px] flex items-center justify-center bg-white text-[#8C49E9] w-[49px] h-[49px] rounded-full duration-300 group-hover:scale-110 xl:right-[20px]">
         <FaArrowRightLong className="text-2xl rotate-[324deg]" />
       </div>
 

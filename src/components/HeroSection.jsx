@@ -36,10 +36,10 @@ function HeroSection() {
         </div>
         {/* Buttons */}
         <div className="flex items-center justify-center gap-3 xl:justify-start" data-aos="fade-down">
-          <button className="bg-[#8C49E9] p-2 px-6 rounded-lg mt-4 cursor-pointer lg:px-12 lg:p-3">
+          <button className="bg-[#8C49E9] p-2 px-6 rounded-lg mt-4 duration-300 hover:scale-105 cursor-pointer lg:px-12 lg:p-3">
             Let's Talk
           </button>
-          <button className="flex items-center gap-2 p-2 px-6 rounded-lg mt-4 cursor-pointer lg:p-3">
+          <button className="flex items-center gap-2 p-2 px-6 rounded-lg mt-4 duration-300 hover:gap-4 cursor-pointer lg:p-3 xl:px-12">
             My Work <HiArrowLongRight />
           </button>
         </div>
