@@ -16,7 +16,7 @@ function App() {
       <Navbar />
       <div className="md:px-6 lg:px-20 xl:flex xl:flex-1 gap-3 xl:justify-center xl:max-w-[80%] xl:m-auto xl:py-12">
         <Profile />
-        <div className="w-[65%]">
+        <div className="xl:w-[65%] xl:m-auto">
           <HeroSection />
           <Projects />
           <Tools />
