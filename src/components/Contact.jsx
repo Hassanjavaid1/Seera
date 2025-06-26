@@ -2,7 +2,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 
 function Contact() {
   return (
-    <section className="relative group bg-[#2A2B2C] duration-200 hover:bg-[#8C49E9] cursor-pointer m-3 p-4 rounded-xl lg:p-6">
+    <section className="relative group bg-[#2A2B2C] duration-200 hover:bg-[#8C49E9] cursor-pointer m-3 p-4 rounded-xl lg:p-6 xl:my-20" data-aos="fade-down">
       <h1 className="text-4xl py-4 mr-10 lg:text-[48px] xl:text-[58px] xl:leading-tight xl:mr-22">
         Let's{" "}
         <span className="text-[#8C49E9] group-hover:text-white">

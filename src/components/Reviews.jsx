@@ -56,11 +56,11 @@ function Reviews() {
 
   return (
     <section className="p-4">
-      <h1 className="text-4xl text-center py-4 lg:text-[48px] xl:text-[58px] xl:text-start xl:leading-tight">
+      <h1 className="text-4xl text-center py-4 lg:text-[48px] xl:text-[58px] xl:text-start xl:leading-tight" data-aos="fade-down">
         What Clients Say About My <span className="text-[#8C49E9]">Work</span>
       </h1>
 
-      <div className="embla overflow-hidden">
+      <div className="embla overflow-hidden" data-aos="fade-down">
         {/* Buttons */}
         <div className="flex justify-end items-center gap-2 my-4">
           <button

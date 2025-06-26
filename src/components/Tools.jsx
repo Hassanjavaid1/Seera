@@ -3,12 +3,12 @@ import React from "react";
 function Tools() {
   return (
     <section className="p-4">
-      <h1 className="text-4xl text-center py-4 lg:text-[48px]">
+      <h1 className="text-4xl text-center py-4 lg:text-[48px]"  data-aos="fade-down">
         Top-Tier Tools for Exceptional{" "}
         <span className="text-[#8C49E9]">Results</span>
       </h1>
       {/* Tools */}
-      <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-2 lg:mt-3">
+      <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-2 lg:mt-3" data-aos="fade-down">
         <div className="bg-[#323335] duration-200 hover:bg-[#8D4AEA] flex items-center gap-2 rounded-xl p-2">
           <img
             src={"/Seera/tool-logo1.avif"}

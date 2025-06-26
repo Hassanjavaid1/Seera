@@ -9,8 +9,19 @@ import Reviews from "./components/Reviews.jsx";
 import Footer from "./components/Footer.jsx";
 import Contact from "./components/Contact.jsx";
 import Blog from "./components/Blog.jsx";
+import { useEffect } from "react";
+import "aos/dist/aos.css";
+
+import Aos from "aos";
 
 function App() {
+  useEffect(() => {
+    Aos.init({
+      duration: 800,
+      once: true, 
+    });
+    Aos.refresh();
+  }, []);
   return (
     <>
       <Navbar />
