@@ -55,7 +55,7 @@ function Reviews() {
   );
 
   return (
-    <section className="p-4">
+    <section className="p-4 xl:my-20">
       <h1 className="text-4xl text-center py-4 lg:text-[48px] xl:text-[58px] xl:text-start xl:leading-tight" data-aos="fade-down">
         What Clients Say About My <span className="text-[#8C49E9]">Work</span>
       </h1>

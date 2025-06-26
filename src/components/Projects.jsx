@@ -1,6 +1,6 @@
 function Projects() {
   return (
-    <section className="p-4" data-aos="fade-down">
+    <section className="p-4 xl:my-20" data-aos="fade-down">
       <h1 className="text-4xl text-center py-4 lg:text-[58px] xl:text-start xl:leading-tight">
         Recent Projects and <span className="text-[#8C49E9]">Achievements</span>
       </h1>

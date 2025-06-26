@@ -2,7 +2,7 @@ import React from "react";
 
 function Tools() {
   return (
-    <section className="p-4">
+    <section className="p-4 xl:my-20">
       <h1 className="text-4xl text-center py-4 lg:text-[48px]"  data-aos="fade-down">
         Top-Tier Tools for Exceptional{" "}
         <span className="text-[#8C49E9]">Results</span>
