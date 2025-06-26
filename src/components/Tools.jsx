@@ -11,7 +11,7 @@ function Tools() {
       <div className="grid grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-2 lg:mt-3">
         <div className="bg-[#323335] duration-200 hover:bg-[#8D4AEA] flex items-center gap-2 rounded-xl p-2">
           <img
-            src={"/tool-logo1.avif"}
+            src={"/Seera/tool-logo1.avif"}
             alt={"tool1"}
             className="w-[60px] object-cover duration-600 group-hover:scale-110"
           />
@@ -22,7 +22,7 @@ function Tools() {
         </div>
         <div className="bg-[#323335] duration-200 hover:bg-[#8D4AEA] flex items-center gap-2 rounded-xl p-2">
           <img
-            src={"/tool-logo2.avif"}
+            src={"/Seera/tool-logo2.avif"}
             alt={"tool1"}
             className="w-[60px] object-cover duration-600 group-hover:scale-110"
           />
@@ -33,7 +33,7 @@ function Tools() {
         </div>
         <div className="bg-[#323335] duration-200 hover:bg-[#8D4AEA] flex items-center gap-2 rounded-xl p-2">
           <img
-            src={"/tool-logo3.avif"}
+            src={"/Seera/tool-logo3.avif"}
             alt={"tool1"}
             className="w-[60px] object-cover duration-600 group-hover:scale-110"
           />
@@ -44,7 +44,7 @@ function Tools() {
         </div>
         <div className="bg-[#323335] duration-200 hover:bg-[#8D4AEA] flex items-center gap-2 rounded-xl p-2">
           <img
-            src={"/tool-logo4.avif"}
+            src={"/Seera/tool-logo4.avif"}
             alt={"tool1"}
             className="w-[60px] object-cover duration-600 group-hover:scale-110"
           />
@@ -55,7 +55,7 @@ function Tools() {
         </div>
         <div className="bg-[#323335] duration-200 hover:bg-[#8D4AEA] flex items-center gap-2 rounded-xl p-2">
           <img
-            src={"/tool-logo5.avif"}
+            src={"/Seera/tool-logo5.avif"}
             alt={"tool1"}
             className="w-[60px] object-cover duration-600 group-hover:scale-110"
           />
@@ -66,7 +66,7 @@ function Tools() {
         </div>
         <div className="bg-[#323335] duration-200 hover:bg-[#8D4AEA] flex items-center gap-2 rounded-xl p-2">
           <img
-            src={"/tool-logo6.avif"}
+            src={"/Seera/tool-logo6.avif"}
             alt={"tool1"}
             className="w-[60px] object-cover duration-600 group-hover:scale-110"
           />

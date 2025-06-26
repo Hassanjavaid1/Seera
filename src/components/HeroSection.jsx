@@ -50,27 +50,27 @@ function HeroSection() {
           <Marquee pauseOnHover={true}>
             <div className="flex items-center gap-[4rem]">
               <img
-                src="/logo1.avif"
+                src="/Seera/logo1.avif"
                 alt="logo"
                 className="w-[200px] object-cover"
               />
               <img
-                src="/logo2.avif"
+                src="/Seera/logo2.avif"
                 alt="logo"
                 className="w-[200px] object-cover"
               />
               <img
-                src="/logo3.avif"
+                src="/Seera/logo3.avif"
                 alt="logo"
                 className="w-[200px] object-cover"
               />
               <img
-                src="/logo4.avif"
+                src="/Seera/logo4.avif"
                 alt="logo"
                 className="w-[200px] object-cover"
               />
               <img
-                src="/logo5.avif"
+                src="/Seera/logo5.avif"
                 alt="logo"
                 className="w-[200px] object-cover"
               />

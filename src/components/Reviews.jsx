@@ -6,37 +6,37 @@ import { HiArrowLongLeft } from "react-icons/hi2";
 const reviews = [
   {
     name: "Alice Johnson",
-    image: "/client1.avif",
+    image: "/Seera/client1.avif",
     review:
       "Working with your team was a delight! The design quality and attention to detail exceeded my expectations. Highly recommended.",
   },
   {
     name: "Bob Smith",
-    image: "/client2.avif",
+    image: "/Seera/client2.avif",
     review:
       "The project was delivered on time and budget. Communication was clear throughout. I couldn’t be happier with the results.",
   },
   {
     name: "Charlie Lee",
-    image: "/client3.avif",
+    image: "/Seera/client3.avif",
     review:
       "You captured our vision beautifully. The UX improvements significantly boosted our user engagement and conversion rates.",
   },
   {
     name: "Diana Patel",
-    image: "/client4.avif",
+    image: "/Seera/client4.avif",
     review:
       "Absolutely professional from start to finish. The team is responsive, creative, and truly cares about client success.",
   },
   {
     name: "Ethan Martinez",
-    image: "/client5.avif",
+    image: "/Seera/client5.avif",
     review:
       "Their dedication and expertise helped us launch faster than anticipated. I appreciate the attention to user experience.",
   },
   {
     name: "Fiona Cheng",
-    image: "/client6.avif",
+    image: "/Seera/client6.avif",
     review:
       "Top-notch service and skillful execution. Our brand now feels more modern, accessible, and user-friendly.",
   },
@@ -56,7 +56,7 @@ function Reviews() {
 
   return (
     <section className="p-4">
-      <h1 className="text-4xl text-center py-4 lg:text-[48px]">
+      <h1 className="text-4xl text-center py-4 lg:text-[48px] xl:text-[58px] xl:text-start xl:leading-tight">
         What Clients Say About My <span className="text-[#8C49E9]">Work</span>
       </h1>
 
@@ -87,7 +87,7 @@ function Reviews() {
             {reviews.map((t, idx) => (
               <div
                 key={idx}
-                className="embla__slide flex-none w-full min-w-0 p-4 lg:p-6 lg:px-10"
+                className="embla__slide flex-none w-full min-w-0 p-4 lg:p-6 lg:px-10 xl:px-8"
               >
                 <div className="flex items-center gap-3 mb-2">
                   <img

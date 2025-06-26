@@ -1,4 +1,3 @@
-import { BrowserRouter as Router } from "react-router-dom";
 import "./App.css";
 import Navbar from "./components/Navbar.jsx";
 import Profile from "./components/Profile.jsx";
@@ -9,6 +8,7 @@ import FAQ from "./components/FAQ.jsx";
 import Reviews from "./components/Reviews.jsx";
 import Footer from "./components/Footer.jsx";
 import Contact from "./components/Contact.jsx";
+import Blog from "./components/Blog.jsx";
 
 function App() {
   return (
@@ -21,6 +21,7 @@ function App() {
           <Projects />
           <Tools />
           <Reviews />
+          <Blog />
           <FAQ />
           <Contact />
         </div>
